@@ -4,31 +4,31 @@ export const DummyTodoList: TodoListProps[] = [
     {
         id: 1,
         checked: false,
-        title: 'Todo 1',
-        description: 'This is Todo 1'
+        title: 'Мерф',
+        description: '1,6км бега - 100 подтягиваний - 200 отжиманий - 300 приседаний - 1.6 км бега'
     },
     {
         id: 2,
         checked: false,
-        title: 'Todo 2',
-        description: 'This is Todo 2'
+        title: 'Челси',
+        description: '5 Подтягиваний 10 Отжиманий 15 Приседаний - 30 мин (EMOM)'
     },
     {
         id: 3,
         checked: false,
-        title: 'Todo 3',
-        description: 'This is Todo 3'
+        title: 'JT',
+        description: '21-15-9 : Отжимания от пола, Отжимания на брусьях'
     },
     {
         id: 4,
         checked: true,
-        title: 'Todo 4',
-        description: 'This is Todo 4'
+        title: 'Джейсон',
+        description: '100 Приседаний - 5 Подтягиваний - 75 Приседаний - 10 Подтягиваний - 50 Приседаний - 15 Подтягиваний - 25 Приседаний - 20 Подтягиваний'
     },
     {
         id: 5,
         checked: true,
-        title: 'Todo 5',
-        description: 'This is Todo 5'
+        title: 'TAG',
+        description: 'Max Берпи  за 20 минут'
     },
 ]
